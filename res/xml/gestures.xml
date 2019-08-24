@@ -83,4 +83,10 @@
         android:fragment="com.android.settings.gestures.PreventRingingGestureSettings"
         settings:controller="com.android.settings.gestures.PreventRingingPreferenceController" />
 
+    <Preference
+        android:key="edge_gestures"
+        android:title="@string/edge_gestures_title"
+        android:summary="@string/edge_gestures_summary"
+        android:fragment="com.lineage.settings.fragments.EdgeGesturesSettings" />
+
 </PreferenceScreen>
