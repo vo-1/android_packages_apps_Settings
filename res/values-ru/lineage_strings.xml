@@ -24,4 +24,6 @@
     <string name="edge_gestures_landscape_back_edges_title">Триггер жеста назад в ландшафтном режиме</string>
     <string name="edge_gestures_back_screen_percent_title">Активная область жеста \"Назад\" будет ниже этого процента экрана</string>
     <string name="edge_gestures_back_screen_percent_summary">Область срабатывания жеста</string>
+    <string name="edge_gestures_back_show_ui_feedback_title">Анимация жеста \"Назад\"</string>
+    <string name="edge_gestures_back_show_ui_feedback_summary">Показывать анимацию по краям при использовании жеста назад</string>
 </resources>
