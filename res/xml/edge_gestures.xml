@@ -68,8 +68,8 @@
             android:title="@string/edge_gestures_back_screen_percent_summary"
             android:min="0"
             android:max="90"
-            lineagesettings:unitsRight="%"
-            lineagesettings:interval="10"
+            settings:units="%"
+            settings:interval="10"
             android:defaultValue="60" />
 
         <com.lineage.settings.preferences.SecureSettingSwitchPreference
